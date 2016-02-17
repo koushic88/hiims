@@ -1,6 +1,7 @@
 {
-  "app_company": "Cerner",
-  "app_tagline": "Tester SMART App to verify that all services and configurations are setup properly",
-  "app_company_url": "http://www.cerner.com"
+  "app_name": "EnrG|Rheum",
+  "app_company": "xG Health Solutions",
+  "app_tagline": "Improves care for rheumatology patients. Extracts, organizes and presents patient-entered data with EHR data in a user-friendly and clinically-relevant way.",
+  "app_company_url": "http://www.xghealth.com/"
 }
 

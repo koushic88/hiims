@@ -1,5 +1,6 @@
 {
-  "app_company": "Intermountain Healthcare",
-  "app_tagline": "This is the demonstration app designed to help physicians treat newborn.",
-  "app_company_url": "http://www.hspconsortium.org"
+  "app_name": "VisualDX",	
+  "app_company": "VisualDx",
+  "app_tagline": "VisualDx: Diagnostic Clinical Decision Support.",
+  "app_company_url": "http://www.visualdx.com"
 }

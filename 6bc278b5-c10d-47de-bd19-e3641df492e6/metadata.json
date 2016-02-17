@@ -1,5 +1,6 @@
 {
+  "app_name": "Bilirubin Chart",
   "app_company": "Intermountain Healthcare",
-  "app_tagline": "This is the demonstration app designed to help physicians treat newborn.",
+  "app_tagline": " This is a demonstration app designed to help clinicians treat newborn hyperbilirubinemia appropriately. Not approved for clinical use.",
   "app_company_url": "http://www.hspconsortium.org"
 }

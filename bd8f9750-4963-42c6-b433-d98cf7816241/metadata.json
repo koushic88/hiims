@@ -1,0 +1,6 @@
+{
+  "app_name": "ClinDat",
+  "app_company": "Health Report Services",
+  "app_tagline": "Collects rheumatology data using MDHAQ, RAPID3, RheuMetric, and interactive Humonculus questionnaires. Generates longitudinal reports.",
+  "app_company_url": "https://clindat.com"
+}

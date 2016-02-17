@@ -1,5 +1,6 @@
 {
+  "app_name": "BP Percentiles",
   "app_company": "Boston Children's Hospital",
-  "app_tagline": "Calculate a child's blood pressure percentiles, normalized by age, sex, and height.",
+  "app_tagline": "Calculate a child's blood pressure percentiles, normalized by age, sex, and height. Enables screening for hypertension with short-term and long-term views.",
   "app_company_url": "http://www.childrenshospital.org"
 }

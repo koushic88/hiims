@@ -1,5 +1,6 @@
 {
-  "app_company": "Cerner",
+  "app_name": "Cerner SMART App Validator",	
+  "app_company": "Cerner Corporation",
   "app_tagline": "Tester SMART App to verify that all services and configurations are setup properly",
   "app_company_url": "http://www.cerner.com"
 }

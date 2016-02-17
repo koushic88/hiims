@@ -1,5 +1,6 @@
 {
+  "app_name": "Cardiac Risk",	
   "app_company": "Boston Children's Hospital",
-  "app_tagline": "This app estimates patients 10 years risk of heart attack or stroke with interactive display",
+  "app_tagline": "Estimate a patient's 10-year risk of heart attack or stroke (Reynolds Risk Score) with an intuitive interactive display.",
   "app_company_url": "http://www.childrenshospital.org"
 }
