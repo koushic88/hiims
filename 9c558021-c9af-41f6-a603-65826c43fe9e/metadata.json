@@ -1,0 +1,6 @@
+{
+  "app_name": "UpToDate Search",
+  "app_company": "Wolters Kluwer Health",
+  "app_tagline": "This app makes use of SMART on FHIR technology for improved UpToDate search results using patient context.  It will allow EMR vendors or other partners to easily embed an UpToDate search box within the clinician workflow in their applications.",
+  "app_company_url": "http://www.uptodate.com"
+}
