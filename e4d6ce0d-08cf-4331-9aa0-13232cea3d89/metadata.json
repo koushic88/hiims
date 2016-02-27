@@ -1,0 +1,6 @@
+{
+  "app_name": "HealtheRegistries",
+  "app_company": "Cerner Corporation",
+  "app_tagline": "Cerner’s registries and scorecards solution, HealtheRegistries, is a chronic condition and wellness registry solution that enables organizations to identify, attribute, measure and monitor people at an individual or population level.  Organizations can identify, score and predict risks of these individuals or populations to allow clinicians to target intervention.  HealtheRegistries as a SMART® on FHIR® application would allow the viewing and use of this within a clinician’s workflow within any SMART on FHIR compliant EHR.",
+  "app_company_url": "http://www.cerner.com/"
+}

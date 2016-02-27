@@ -1,0 +1,6 @@
+{
+  "app_name": "HealtheRecord",
+  "app_company": "Cerner Corporation",
+  "app_tagline": "HealtheRecord is a conceptually organized view of an individual’s data aggregated and normalized across disparate health care data sources.  HealtheRecord as a SMART® on FHIR® application would allow the viewing and use of this within a clinician’s workflow within any SMART on FHIR compliant EHR.",
+  "app_company_url": "http://www.cerner.com/"
+}
